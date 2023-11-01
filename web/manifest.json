@@ -1,6 +1,6 @@
 {
-    "name": "flutter_bluetooth_serial",
-    "short_name": "flutter_bluetooth_serial",
+    "name": "flutter_bluetooth_serial_app",
+    "short_name": "flutter_bluetooth_serial_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

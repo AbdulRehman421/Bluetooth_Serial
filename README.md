@@ -1,4 +1,4 @@
-# flutter_bluetooth_serial
+# flutter_bluetooth_serial_app
 
 A new Flutter project.
 

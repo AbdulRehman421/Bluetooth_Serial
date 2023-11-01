@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_bluetooth_serial/flutter_bluetooth_serial.dart';
+import 'package:flutter_bluetooth_serial_app/flutter_bluetooth_serial_app.dart';
 
 import './BluetoothDeviceListEntry.dart';
 
